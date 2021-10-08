@@ -1,2 +1,4 @@
 # Python
-All Algorithms implemented in Python  spanish  Todos los algoritmos implementados en Python
+All Algorithms implemented in Python 
+"Spanish"
+Todos los algoritmos implementados en Python
